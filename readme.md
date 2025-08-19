@@ -3,7 +3,7 @@
 - 🔭 I’m currently a student at the university of Glasgow.
 - 🧰 I'm working with Python, radar, and machine learning.
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=triagram&show_include_all_commits=true icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=triagram&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **triagram/Triagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
