@@ -3,7 +3,10 @@
 - 🔭 I’m currently a student at the university of Glasgow.
 - 🧰 I'm working with Python, radar, and machine learning.
 
-  <p align="center">
+
+
+
+<p>
   <img src="./profile/stats.svg" height="170" alt="stats" />
   <img src="./profile/top-langs.svg" height="170" alt="top langs" />
 </p>
